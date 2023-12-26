@@ -10,14 +10,35 @@ Prewriting is the stage where you collect and organize information (Sainani, n.d
 
 ## Understanding Requirements
 
-### Writing to a Genre
+### Writing in a Genre
 
 * A genre is a set of forms or standards expected by a community (Booth et. al., 2016). The genre we focus on in much of academic writing in nursing is the research report with five sections: Introduction, Methods, Results, Discussion, and Conclusion (Booth et. al., 2016).
 * Much quality improvement reporting follows a more specific standard called Revised Standards for Quality Improvement Reporting Excellence or SQUIRE 2.0 guidelines (Ogrinc et. al., 2015). SQUIRE 2.0 follows a slightly shorter version of the five part research report called Introduction, Methods, Results, and Discussion (IMRAD). http://www.squire-statement.org/index.cfm?fuseaction=Page.ViewPage&PageID=471
 
+### Divide Paper into Sections
+
+* If it has not been done already, you may find it beneficial to divide your paper into specific sections and understand the content that should be included in each section.
+
+### Working with References
+
+* If you are citing more than a handful of sources in your writing, I recommend using a citation manager. If you're a student at the University of Utah, EndNote is available for a reasonable cost from the [Office of Software Licensing](https://software-catalog.app.utah.edu/product/1076).
+* Zotero is available for free. It has some nice integration with web browsers and allows you to share references with groups. https://www.zotero.org/
+  * How to use Zotero (A complete beginner's guide) (13 min) https://www.youtube.com/watch?v=JG7Uq_JFDzE
+  * How to use Zotero 2023 - Full tutorial with examples (25 min) https://www.youtube.com/watch?v=tnbwKj6-pD8
+  * Reading, annotating, note-taking, and drafting/outlining with Zotero 6 (20 min) https://www.youtube.com/watch?v=pZTjiSSOsE4
+  * Best add-ons in Zotero | easy to use | better notes | literature review mindmap | research (11 min) https://www.youtube.com/watch?v=DgiG-H4tjSI
+* If you're citing other sources in your writing, you need to come up with a system to keep track of your notes and material you use from your references. Here is a demonstration of keeping source notes using [Miro](https://miro.com/). https://youtu.be/jnGM-j52Rss
+* I recommend purchasing the most current APA manual. As of 2023 that is APA 7 (American Psychological Association, 2020). However, many things can be looked up online on the APA Style Blog https://apastyle.apa.org/
+* Searching for Literature https://github.com/cmcntsh/LitSearchAIResources
+
+### Evaluating Evidence
+
+* If you need to evaluate the strength of evidence, use a recognized framework.
+* The Johns Hopkins model is suitable for evaluating a wide range of evidence (Dang et al., 2021). 
+
 # <ins>W</ins>writing
 
-Writing is the stage where you produce your first draft of organized text.
+Writing is the stage where you produce your first draft of organized text. At this stage, it's more important to get a first draft written than it is to have a well-written first draft (Sainani, n.d.). Worry about revising later.
 
 ## Tools
 
@@ -27,12 +48,51 @@ Writing is the stage where you produce your first draft of organized text.
 
 ## Tools
 
-* I always recommend the use of Grammarly. Graduate students at the U of U have free access. https://gradschool.utah.edu/resources-hub/grammarly/index.php
+* I always recommend the use of Grammarly. Graduate students at the U of U have free access. https://gradschool.utah.edu/resources-hub/grammarly/index.php 
+* (new in 2023) ChatGPT (https://openai.com/blog/chatgpt/) can also help fix problem sentences and more. Here are some [examples](https://github.com/cmcntsh/UseChatGPtEdit) of things I've tried.
+* (new in December, 2023) Google has released a new model called Gemini. (https://bard.google.com/chat) Similar prompts may work on that platform.
+* (new in 2023) APA has come out with guidance on citing ChatGPT https://apastyle.apa.org/blog/how-to-cite-chatgpt
 * The [Graduate Student Writing Center](https://writingcenter.utah.edu/) is a good resource.
+* Understand that writing is an iterative process. Be prepared to complete assignments, receive feedback, and incorporate feedback into revisions.
 
+### Track Changes and comments in Word:
+
+* This link explains how to use [Track Changes in Word](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a).
+* This link explains how to use [Comments in Word](https://support.microsoft.com/en-us/office/insert-or-delete-a-comment-8d3f868a-867e-4df2-8c68-bf96671641e2).
+
+## Analysis Techniques
+
+### Reader Expectation Approach to Writing
+
+I attended a presentation by an emeritus professor of rhetoric named George Gopen in 2023, where I was introduced to the Reader Expectation Approach to writing. The gist of his method is that the writer needs to consider how readers of English prose usually interpret the meaning of sentences and write so readers are more likely to interpret the intended meaning of a work. Dr. Gopen has published a number of works, but I **HIGHLY** recommend his series of articles on litigation. They're free to access and easy to digest (Available at https://www.georgegopen.com/litigation-articles.html) Most of the articles are 1-2 pages long. He describes how to structure writing to facilitate reader interpretation of the intended meaning. He answers such questions as: When should passive voice be used? When is a sentence too long or too short? How to reinforce key points? And how do you write for clarity and ease of reading? (You may wonder what articles on litigation have to do with scientific or academic writing. The answer is scientific and academic writing is usually about making an argument and supporting it with evidence. If you read the articles, you will see they are very relevant.) I might mention that he has consulted on writing grant proposals that have been awarded hundreds of millions of dollars in research funding.
+
+* Reader Expectation Approach readings and exercises https://github.com/cmcntsh/ReaderExpectationReadingExercises
+
+### Paragraphs
+
+* A lot of final refinement work will consist of evaluating and refining the content and order of your paragraphs.
+  * Here are some nice articles on what you should understand about the purpose of paragraphs and how to structure paragraphs.
+    * [The Ultimate Guide to Paragraphs](https://www.grammarly.com/blog/paragraphs/) (Ellis, 2021a)
+    * [How to Write Strong Paragraphs](https://www.grammarly.com/blog/paragraph-structure/) (Ellis, 2022)
+    * [On Paragraphs](https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.html) (Purdue Online Writing Lab, 2022a)
+    * "You may have learned that every paragraph should begin with a topic sentence and be directly relevant to the section in which it appears. Those are good rules of thumb, but applied too strictly they can make your writing seem stiff. The important thing is to structure and arrange your paragraphs so that they lead your readers through the conversation you are orchestrating. Open each paragraph with a sentence or two that signal its key concepts. Doing that will help readers better understand what follows. If your opening doesn't also state the paragraph's point, then your last sentence should. Never bury the point in the middle." (Booth et al, 2016, p. 195)
+    * "There is no minimum or maximum sentence length in APA Style. Overuse of short, simple sentences produces choppy prose, however, and overuse of long, involved sentences results in difficult, sometimes incomprehensible, language. Varied sentence length helps readers maintain interest and comprehension. When involved concepts require long sentences, the components should proceed logically. Avoid including multiple ideas in a single sentence; instead, break the sentence into shorter ones. Direct, declarative sentences with simple, common words are usually best.
+Similar cautions apply to paragraph length. Single-sentence paragraphs are abrupt and should be used infrequently. Paragraphs that are too long (i.e., longer than one double-spaced manuscript page) risk losing readers' attention. A new paragraph signals a shift to a new idea and provides a pause for readers - a chance to assimilate one step in the conceptual development before beginning another. Look for a logical place (or places) to break up a long paragraph or reorganize the material." (American Psychological Association, 2020, p. 115)
+  * One exercise you can use to evaluate the quality of your paragraphs and the sequence of your logic is called Reverse Outlining.
+    * [Reverse Outlining: An Exercise for Taking Notes and Revising Your Work](https://owl.purdue.edu/owl/general_writing/the_writing_process/reverse_outlining.html) (Purdue Online Writing Lab, n.d.)
+    * [Reverse Outlines: A Writer's Technique for Examining Organization](https://writing.wisc.edu/handbook/process/reverseoutlines/) (The Writing Center, n.d.)
+    
+### Sentences
+    
+* This work will also consist of evaluating and refining your sentences.
+  * [How to Write Better Sentences](https://www.grammarly.com/blog/sentences/) (Ellis, 2021b)
+  * [How to Write Excellent Sentences: A Guide to Sentences Structure](https://blog.streetwriters.co/how-to-write-good-sentences/) (Streetwriters, 2021)
+  * (new in 2023) ChatGPT (https://openai.com/blog/chatgpt/) can also help fix problem sentences.
+ 
 # References
 
 * Booth, W. C., Colomb, G. G., Williams, J. M., Bizup, J., & FitzGerald, W. T. (2016). *The craft of research (Fourth edition)*. The University of Chicago Press.
+* Dang, D., Dearholt, S. L., Bissett, K., Whalen, M., & Ascenzi, J. (2021). *Johns Hopkins evidence-based practice for nurses and healthcare professionals: Model & guidelines (Fourth edition)*. Sigma Theta Tau International.
 * Krause, T. (2022). 2.5 Getting ready to write: The P.O.W.E.R. writing process. In OpenOregon Educational Resources, *Synthesis*. https://openoregon.pressbooks.pub/synthesis/chapter/getting-ready-to-write-the-p-o-w-e-r-writing-process/
 * Ogrinc, G., Davies, L., Goodman, D., Batalden, P., Davidoff, F., & Stevens, D. (2016). SQUIRE 2.0 ( Standards for QUality Improvement Reporting Excellence): Revised publication guidelines from a detailed consensus process: Table 1. *BMJ Quality & Safety*, 25(12), 986–992. https://doi.org/10.1136/bmjqs-2015-004411
 * Sainani, K. (n.d.). 4.2 Overview of the writing process [Coursera lecture]. In Stanford University, *Writing in the sciences*. Coursera. Retrieved December 24, 2023, from https://www.coursera.org/learn/sciwrite/lecture/vPzd8/4-3-the-pre-writing-step
