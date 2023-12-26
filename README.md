@@ -55,7 +55,7 @@ If you are citing more than a handful of sources in your writing, I recommend us
   * How to use Zotero 2023 - Full tutorial with examples (25 min) https://www.youtube.com/watch?v=tnbwKj6-pD8
   * Reading, annotating, note-taking, and drafting/outlining with Zotero 6 (20 min) https://www.youtube.com/watch?v=pZTjiSSOsE4
   * Best add-ons in Zotero | easy to use | better notes | literature review mindmap | research (11 min) https://www.youtube.com/watch?v=DgiG-H4tjSI
-* If you're a student at the University of Utah, EndNote is available for a reasonable cost from the [Office of Software Licensing](https://software-catalog.app.utah.edu/product/1076).
+* If you're a student at the University of Utah, EndNote is available for a reasonable cost from the [Office of Software Licensing](https://software-catalog.app.utah.edu/product/1076). (I currently prefer working with Zotero. It's free and in many ways I find it easier to use.)
 * I recommend purchasing the most current APA manual. As of 2023 that is APA 7 (American Psychological Association, 2020). However, many things can be looked up online on the APA Style Blog https://apastyle.apa.org/
 
 ### AI Prompts to Help Organize Text
