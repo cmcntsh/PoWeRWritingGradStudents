@@ -57,8 +57,11 @@ If you are citing more than a handful of sources in your writing, I recommend us
   * Best add-ons in Zotero | easy to use | better notes | literature review mindmap | research (11 min) https://www.youtube.com/watch?v=DgiG-H4tjSI
 * If you're a student at the University of Utah, EndNote is available for a reasonable cost from the [Office of Software Licensing](https://software-catalog.app.utah.edu/product/1076). (I currently prefer working with Zotero. It's free and in many ways I find it easier to use.)
 * I recommend purchasing the most current APA manual. As of 2023 that is APA 7 (American Psychological Association, 2020). However, many things can be looked up online on the APA Style Blog https://apastyle.apa.org/
+* (new in 2023) APA has come out with guidance on citing ChatGPT https://apastyle.apa.org/blog/how-to-cite-chatgpt . You should mention in the Methods section of your paper how you used AI tools if you used them as part of your workflow.
 
 ### AI Prompts to Help Organize Text
+
+I currently recommend these tools for general-purpose text prompts: 1) https://chat.openai.com/ 2) https://bard.google.com/chat
 
 Prompt:
 
@@ -83,6 +86,8 @@ Writing is the stage where you produce your first draft of organized text. At th
 * I always recommend the use of Grammarly. Graduate students at the U of U have free access. https://gradschool.utah.edu/resources-hub/grammarly/index.php
 
 ### AI Prompts to Help with Writing
+
+I currently recommend these tools for general-purpose text prompts: 1) https://chat.openai.com/ 2) https://bard.google.com/chat
 
 #### Help writing paragraphs
 
@@ -151,12 +156,55 @@ Similar cautions apply to paragraph length. Single-sentence paragraphs are abrup
 
 ## Rewriting Tools
 
-* I always recommend the use of Grammarly. Graduate students at the U of U have free access. https://gradschool.utah.edu/resources-hub/grammarly/index.php 
-* (new in 2023) ChatGPT (https://openai.com/blog/chatgpt/) can also help fix problem sentences and more. Here are some [examples](https://github.com/cmcntsh/UseChatGPtEdit) of things I've tried.
-* (new in December, 2023) Google has released a new model called Gemini. (https://bard.google.com/chat) Similar prompts may work on that platform.
-* (new in 2023) APA has come out with guidance on citing ChatGPT https://apastyle.apa.org/blog/how-to-cite-chatgpt
+* I always recommend the use of Grammarly. Graduate students at the U of U have free access. https://gradschool.utah.edu/resources-hub/grammarly/index.php
 * The [Graduate Student Writing Center](https://writingcenter.utah.edu/) is a good resource.
-* Understand that writing is an iterative process. Be prepared to complete assignments, receive feedback, and incorporate feedback into revisions.
+
+### AI Prompts to Help with Rewriting
+
+I currently recommend these tools for general-purpose text prompts: 1) https://chat.openai.com/ 2) https://bard.google.com/chat I would use the following prompts on individual sections of your paper and not the entire paper all at once. I would use each prompt individually, evaluate the suggested changes, and update your text as desired before moving to the next prompt. I would then use your revised text as the starting point for the next editing prompt.
+
+#### Evaluate the Comprehensiveness of Content Coverage
+
+You can evaluate a paper or paper section for how well relevant elements are addressed.
+
+Prompt:
+
+```
+How well does the following text answer each of these questions? Question 1? Question 2? Question 3? Etc? 
+Here is the text: "[Paste the text you want evaluated here.]"
+```
+
+#### Edit for grammar and style
+
+Prompt
+
+```
+Please review my text for grammar and style. Check for any grammatical errors, awkward phrasing, or areas where the writing style can be improved. If you notice any repetitive or unclear language, provide specific suggestions for enhancement. Here is the text: "[past text here in quotes]".
+```
+
+#### Edit for structure and organization
+
+Prompt
+
+```
+Please review this text for overall structure and organization. Ensure that the ideas flow logically, and the paragraphs are well-connected. If you identify any areas where the organization could be improved or suggest restructuring for better clarity, please provide specific recommendations. Here is the text: "[past text here in quotes]".
+```
+
+#### Edit for clarity and conciseness
+
+Prompt
+
+```
+Please review my text for clarity and conciseness. Check for any areas where the language could be clearer or more concise. If you identify any redundant or overly complex sentences, suggest specific revisions to enhance clarity and brevity. Here is the text: "[past text here in quotes]".
+```
+
+#### Edit for consistent tone
+
+Prompt
+
+```
+Please review my text for consistent tone in academic writing. Ensure that the language is formal, objective, and avoids any elements that may be too casual or subjective. If you identify any instances where the tone may need adjustment for a more formal and scholarly demeanor, please provide specific suggestions. Here is the text: "[past text here in quotes]".
+```
 
 ### Track Changes and comments in Word:
 
