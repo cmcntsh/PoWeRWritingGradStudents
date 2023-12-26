@@ -80,6 +80,7 @@ Writing is the stage where you produce your first draft of organized text. At th
 
 1. Work from your notes created during the prewriting phase.
 2. Write a draft of your paper or paper section using full sentences.
+3. Don't overthink this step. It's most important to get your thoughts down on paper than it is to have everything done well. You will work on how well things are done in the rewriting phase.
 
 ## Writing Tools
 
