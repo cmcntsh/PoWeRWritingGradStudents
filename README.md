@@ -17,6 +17,8 @@ Prewriting is the stage where you collect and organize information (Sainani, n.d
 1. Summarize how a relevant evidence source addresses an aspect of your paper.
     1. Use citations with your summaries.
 1. Arrange your summary evidence into logical groupings in preparation for the writing phase.
+2. Add notes of things you may want to say regarding your evidence and about the topic of your paper.
+3. Arrange groupings into a logical order that will make sense to the reader.
 
 ## Understanding Requirements
 
@@ -32,7 +34,7 @@ Prewriting is the stage where you collect and organize information (Sainani, n.d
 ### Evaluating Evidence
 
 * If you need to evaluate the strength of evidence, use a recognized framework.
-* The Johns Hopkins model is suitable for evaluating a wide range of evidence (Dang et al., 2021). 
+* The Johns Hopkins model is suitable for evaluating a wide range of evidence (Dang et al., 2021).
 
 ## Tools
 
@@ -56,6 +58,14 @@ If you are citing more than a handful of sources in your writing, I recommend us
 * If you're a student at the University of Utah, EndNote is available for a reasonable cost from the [Office of Software Licensing](https://software-catalog.app.utah.edu/product/1076).
 * I recommend purchasing the most current APA manual. As of 2023 that is APA 7 (American Psychological Association, 2020). However, many things can be looked up online on the APA Style Blog https://apastyle.apa.org/
 
+### AI Prompts to Help Organize Text
+
+Prompt:
+
+```
+Please organize this text into the following categories: 1) [category 1], 2) [category 2], 3) [category 3]
+```
+
 <br>  
 <br>  
 
@@ -63,9 +73,32 @@ If you are citing more than a handful of sources in your writing, I recommend us
 
 Writing is the stage where you produce your first draft of organized text. At this stage, it's more important to get a first draft written than it is to have a well-written first draft (Sainani, n.d.). Worry about revising later.
 
+## Writing Workflow
+
+1. Work from your notes created during the prewriting phase.
+2. Write a draft of your paper or paper section using full sentences.
+
 ## Tools
 
 * I always recommend the use of Grammarly. Graduate students at the U of U have free access. https://gradschool.utah.edu/resources-hub/grammarly/index.php
+
+### AI Prompts to Help with Writing
+
+#### Help writing paragraphs
+
+Prompt:
+
+```
+Please help me write this text as an engaging paragraph. Here is the text: "[paste your text here inside quotes]"
+```
+
+#### Help writing topic sentences for paragraphs
+
+Prompt:
+
+```
+Please suggest three possible topic sentences for the following paragraph. Here is the text: "[paste your text here inside quotes]"
+```
 
 <br>  
 <br>  
