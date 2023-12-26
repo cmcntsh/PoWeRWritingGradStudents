@@ -12,11 +12,11 @@ Prewriting is the stage where you collect and organize information (Sainani, n.d
 ## Prewriting Workflow
 
 1. Understand the requirements for your paper.
-2. Find relevant evidence.
-  1. Keep track of potential evidence sources with a citation manager.
-3. Summarize how a relevant evidence source addresses an aspect of your paper.
-  1. Use citations with your summaries.
-4. Arrange your summary evidence into logical groupings in preparation for the writing phase.
+1. Find relevant evidence.
+    1. Keep track of potential evidence sources with a citation manager.
+1. Summarize how a relevant evidence source addresses an aspect of your paper.
+    1. Use citations with your summaries.
+1. Arrange your summary evidence into logical groupings in preparation for the writing phase.
 
 ## Understanding Requirements
 
