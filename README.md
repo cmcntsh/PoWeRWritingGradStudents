@@ -16,7 +16,7 @@ Prewriting is the stage where you collect and organize information (Sainani, n.d
 * A genre is a set of forms or standards expected by a community (Booth et. al., 2016). The genre we focus on in much of academic writing in nursing is the research report with five sections: Introduction, Methods, Results, Discussion, and Conclusion (Booth et. al., 2016).
 * Much quality improvement reporting follows a more specific standard called Revised Standards for Quality Improvement Reporting Excellence or SQUIRE 2.0 guidelines (Ogrinc et. al., 2015). SQUIRE 2.0 follows a slightly shorter version of the five part research report called Introduction, Methods, Results, and Discussion (IMRAD). http://www.squire-statement.org/index.cfm?fuseaction=Page.ViewPage&PageID=471
 
-### Divide Paper into Sections
+### Divide a Paper into Sections
 
 * If it has not been done already, you may find it beneficial to divide your paper into specific sections and understand the content that should be included in each section.
 
