@@ -36,7 +36,7 @@ Prewriting is the stage where you collect and organize information (Sainani, n.d
 * If you need to evaluate the strength of evidence, use a recognized framework.
 * The Johns Hopkins model is suitable for evaluating a wide range of evidence (Dang et al., 2021).
 
-## Tools
+## Prewriting Tools
 
 Several tools can help with parts of the prewriting process.
 
@@ -78,7 +78,7 @@ Writing is the stage where you produce your first draft of organized text. At th
 1. Work from your notes created during the prewriting phase.
 2. Write a draft of your paper or paper section using full sentences.
 
-## Tools
+## Writing Tools
 
 * I always recommend the use of Grammarly. Graduate students at the U of U have free access. https://gradschool.utah.edu/resources-hub/grammarly/index.php
 
@@ -149,7 +149,7 @@ Similar cautions apply to paragraph length. Single-sentence paragraphs are abrup
 
 ![highlighting example](HighlightingFeedback.png)
 
-## Tools
+## Rewriting Tools
 
 * I always recommend the use of Grammarly. Graduate students at the U of U have free access. https://gradschool.utah.edu/resources-hub/grammarly/index.php 
 * (new in 2023) ChatGPT (https://openai.com/blog/chatgpt/) can also help fix problem sentences and more. Here are some [examples](https://github.com/cmcntsh/UseChatGPtEdit) of things I've tried.
