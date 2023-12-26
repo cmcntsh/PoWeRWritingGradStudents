@@ -53,7 +53,7 @@ Writing is the stage where you produce your first draft of organized text. At th
 <br>  
 <br>  
 
-# <ins>R</ins>evising
+# <ins>R</ins>ewriting
 
 ## Tools
 
