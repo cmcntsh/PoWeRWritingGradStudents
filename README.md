@@ -36,7 +36,7 @@ Prewriting is the stage where you collect and organize information (Sainani, n.d
 * If you need to evaluate the strength of evidence, use a recognized framework.
 * The Johns Hopkins model is suitable for evaluating a wide range of evidence (Dang et al., 2021). 
 
-# <ins>W</ins>writing
+# <ins>W</ins>riting
 
 Writing is the stage where you produce your first draft of organized text. At this stage, it's more important to get a first draft written than it is to have a well-written first draft (Sainani, n.d.). Worry about revising later.
 
