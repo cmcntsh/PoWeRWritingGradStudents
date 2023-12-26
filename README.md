@@ -1,6 +1,6 @@
-# Prewriting, Writing, & Rewriting:<br>PoWeR Writing for Graduate Students Resource Page
+# Prewriting, Writing, & Rewriting:<br>PoWeR Writing for Graduate Students
 
-Writing for graduate school can be broken down into phases or steps. The main steps are <ins>**P**</ins>rewriting, <ins>**W**</ins>riting, and <ins>**R**</ins>evising (Sainani, n.d.). This can be abbreviated using the acronym PWR. When sounding this out, it sounds a lot like the word "power". Conveniently enough, the word power contains a couple of additional letters that could represent other tasks we engage in during the writing process. "O" can stand for "organizing" and "E" can stand for "evaluating" (Krause, 2022). Taken all together, "PoWeR" represents a useful way to write. Here is a list of resources that may be helpful at each step of the writing process.
+Writing for graduate school can be broken down into phases or steps. The main steps are <ins>**P**</ins>rewriting, <ins>**W**</ins>riting, and <ins>**R**</ins>ewriting (Sainani, n.d.). This can be abbreviated using the acronym PWR. When sounding this out, it sounds a lot like the word "power". Conveniently enough, the word power contains a couple of additional letters that could represent other tasks we engage in during the writing process. "O" can stand for "organizing" and "E" can stand for "evaluating" (Krause, 2022). Taken all together, "PoWeR" represents a useful step-by-step process to write. In addition, "power" can also refer to turbocharging your writing process by using the many resources available at each step along the way. Here is a list of resources that may be helpful at each step of the writing process.
 
 <br>  
 <br>  
