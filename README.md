@@ -2,6 +2,9 @@
 
 Writing for graduate school can be broken down into phases or steps. The main steps are <ins>**P**</ins>rewriting, <ins>**W**</ins>riting, and <ins>**R**</ins>evising (Sainani, n.d.). This can be abbreviated using the acronym PWR. When sounding this out, it sounds a lot like the word "power". Conveniently enough, the word power contains a couple of additional letters that could represent other tasks we engage in during the writing process. "O" can stand for "organizing" and "E" can stand for "evaluating" (Krause, 2022). Taken all together, "PoWeR" represents a useful way to write. Here is a list of resources that may be helpful at each step of the writing process.
 
+<br>  
+<br>  
+
 # <ins>P</ins>rewriting
 
 Prewriting is the stage where you collect and organize information (Sainani, n.d.).
@@ -36,6 +39,9 @@ Prewriting is the stage where you collect and organize information (Sainani, n.d
 * If you need to evaluate the strength of evidence, use a recognized framework.
 * The Johns Hopkins model is suitable for evaluating a wide range of evidence (Dang et al., 2021). 
 
+<br>  
+<br>  
+
 # <ins>W</ins>riting
 
 Writing is the stage where you produce your first draft of organized text. At this stage, it's more important to get a first draft written than it is to have a well-written first draft (Sainani, n.d.). Worry about revising later.
@@ -43,6 +49,9 @@ Writing is the stage where you produce your first draft of organized text. At th
 ## Tools
 
 * I always recommend the use of Grammarly. Graduate students at the U of U have free access. https://gradschool.utah.edu/resources-hub/grammarly/index.php
+
+<br>  
+<br>  
 
 # <ins>R</ins>evising
 
@@ -89,6 +98,9 @@ Similar cautions apply to paragraph length. Single-sentence paragraphs are abrup
   * [How to Write Excellent Sentences: A Guide to Sentences Structure](https://blog.streetwriters.co/how-to-write-good-sentences/) (Streetwriters, 2021)
   * (new in 2023) ChatGPT (https://openai.com/blog/chatgpt/) can also help fix problem sentences.
  
+<br>  
+<br>  
+
 # References
 
 * Booth, W. C., Colomb, G. G., Williams, J. M., Bizup, J., & FitzGerald, W. T. (2016). *The craft of research (Fourth edition)*. The University of Chicago Press.
