@@ -55,21 +55,9 @@ Writing is the stage where you produce your first draft of organized text. At th
 
 # <ins>R</ins>ewriting
 
-## Tools
-
-* I always recommend the use of Grammarly. Graduate students at the U of U have free access. https://gradschool.utah.edu/resources-hub/grammarly/index.php 
-* (new in 2023) ChatGPT (https://openai.com/blog/chatgpt/) can also help fix problem sentences and more. Here are some [examples](https://github.com/cmcntsh/UseChatGPtEdit) of things I've tried.
-* (new in December, 2023) Google has released a new model called Gemini. (https://bard.google.com/chat) Similar prompts may work on that platform.
-* (new in 2023) APA has come out with guidance on citing ChatGPT https://apastyle.apa.org/blog/how-to-cite-chatgpt
-* The [Graduate Student Writing Center](https://writingcenter.utah.edu/) is a good resource.
-* Understand that writing is an iterative process. Be prepared to complete assignments, receive feedback, and incorporate feedback into revisions.
-
-### Track Changes and comments in Word:
-
-* This link explains how to use [Track Changes in Word](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a).
-* This link explains how to use [Comments in Word](https://support.microsoft.com/en-us/office/insert-or-delete-a-comment-8d3f868a-867e-4df2-8c68-bf96671641e2).
-
 ## Analysis Techniques
+
+Train your brain to recognize and produce good writing. The rest of the tools listed in this guide will be of limited use if you don't have good analytical skills.
 
 ### Reader Expectation Approach to Writing
 
@@ -98,6 +86,33 @@ Similar cautions apply to paragraph length. Single-sentence paragraphs are abrup
   * [How to Write Excellent Sentences: A Guide to Sentences Structure](https://blog.streetwriters.co/how-to-write-good-sentences/) (Streetwriters, 2021)
   * (new in 2023) ChatGPT (https://openai.com/blog/chatgpt/) can also help fix problem sentences.
  
+### Analysis Example
+
+#### Here are the things I’m looking for: 
+
+* Section Content (appropriate and complete)
+* Evidence (citations used when summarizing, paraphrasing, or quoting)
+* APA (spelling, grammar, headings, citation formatting, reference formatting, tables, figures, appendices)
+* Logic and Flow (well-formed paragraphs, topic sentences, suitable transitions, logical arrangement, clearly written sentences)
+
+#### Highlighting:
+
+![highlighting example](HighlightingFeedback.png)
+
+## Tools
+
+* I always recommend the use of Grammarly. Graduate students at the U of U have free access. https://gradschool.utah.edu/resources-hub/grammarly/index.php 
+* (new in 2023) ChatGPT (https://openai.com/blog/chatgpt/) can also help fix problem sentences and more. Here are some [examples](https://github.com/cmcntsh/UseChatGPtEdit) of things I've tried.
+* (new in December, 2023) Google has released a new model called Gemini. (https://bard.google.com/chat) Similar prompts may work on that platform.
+* (new in 2023) APA has come out with guidance on citing ChatGPT https://apastyle.apa.org/blog/how-to-cite-chatgpt
+* The [Graduate Student Writing Center](https://writingcenter.utah.edu/) is a good resource.
+* Understand that writing is an iterative process. Be prepared to complete assignments, receive feedback, and incorporate feedback into revisions.
+
+### Track Changes and comments in Word:
+
+* This link explains how to use [Track Changes in Word](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a).
+* This link explains how to use [Comments in Word](https://support.microsoft.com/en-us/office/insert-or-delete-a-comment-8d3f868a-867e-4df2-8c68-bf96671641e2).
+
 <br>  
 <br>  
 
