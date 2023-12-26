@@ -9,8 +9,6 @@ Writing for graduate school can be broken down into phases or steps. The main st
 
 Prewriting is the stage where you collect and organize information (Sainani, n.d.).
 
-## Tools
-
 ## Understanding Requirements
 
 ### Writing in a Genre
@@ -22,22 +20,32 @@ Prewriting is the stage where you collect and organize information (Sainani, n.d
 
 * If it has not been done already, you may find it beneficial to divide your paper into specific sections and understand the content that should be included in each section.
 
+### Evaluating Evidence
+
+* If you need to evaluate the strength of evidence, use a recognized framework.
+* The Johns Hopkins model is suitable for evaluating a wide range of evidence (Dang et al., 2021). 
+
+## Tools
+
+Several tools can help with parts of the prewriting process.
+
+### Finding Evidence
+
+I maintain a list of AI literature search tools.
+
+* Searching for Literature https://github.com/cmcntsh/LitSearchAIResources
+
 ### Working with References
 
-* If you are citing more than a handful of sources in your writing, I recommend using a citation manager. If you're a student at the University of Utah, EndNote is available for a reasonable cost from the [Office of Software Licensing](https://software-catalog.app.utah.edu/product/1076).
+If you are citing more than a handful of sources in your writing, I recommend using a citation manager. You have to take the time to ensure your references are formatted correctly in any papers you write. Using a citation manager allows you to import literature quickly and check the formatting once instead of checking the formatting every time the reference is used in a paper. 
+
 * Zotero is available for free. It has some nice integration with web browsers and allows you to share references with groups. https://www.zotero.org/
   * How to use Zotero (A complete beginner's guide) (13 min) https://www.youtube.com/watch?v=JG7Uq_JFDzE
   * How to use Zotero 2023 - Full tutorial with examples (25 min) https://www.youtube.com/watch?v=tnbwKj6-pD8
   * Reading, annotating, note-taking, and drafting/outlining with Zotero 6 (20 min) https://www.youtube.com/watch?v=pZTjiSSOsE4
   * Best add-ons in Zotero | easy to use | better notes | literature review mindmap | research (11 min) https://www.youtube.com/watch?v=DgiG-H4tjSI
-* If you're citing other sources in your writing, you need to come up with a system to keep track of your notes and material you use from your references. Here is a demonstration of keeping source notes using [Miro](https://miro.com/). https://youtu.be/jnGM-j52Rss
+* If you're a student at the University of Utah, EndNote is available for a reasonable cost from the [Office of Software Licensing](https://software-catalog.app.utah.edu/product/1076).
 * I recommend purchasing the most current APA manual. As of 2023 that is APA 7 (American Psychological Association, 2020). However, many things can be looked up online on the APA Style Blog https://apastyle.apa.org/
-* Searching for Literature https://github.com/cmcntsh/LitSearchAIResources
-
-### Evaluating Evidence
-
-* If you need to evaluate the strength of evidence, use a recognized framework.
-* The Johns Hopkins model is suitable for evaluating a wide range of evidence (Dang et al., 2021). 
 
 <br>  
 <br>  
@@ -118,6 +126,7 @@ Similar cautions apply to paragraph length. Single-sentence paragraphs are abrup
 
 # References
 
+*American Psychological Association (Washington, District of Columbia) (Ed.). (2020). *Publication manual of the American psychological association (Seventh edition)*. American Psychological Association.
 * Booth, W. C., Colomb, G. G., Williams, J. M., Bizup, J., & FitzGerald, W. T. (2016). *The craft of research (Fourth edition)*. The University of Chicago Press.
 * Dang, D., Dearholt, S. L., Bissett, K., Whalen, M., & Ascenzi, J. (2021). *Johns Hopkins evidence-based practice for nurses and healthcare professionals: Model & guidelines (Fourth edition)*. Sigma Theta Tau International.
 * Krause, T. (2022). 2.5 Getting ready to write: The P.O.W.E.R. writing process. In OpenOregon Educational Resources, *Synthesis*. https://openoregon.pressbooks.pub/synthesis/chapter/getting-ready-to-write-the-p-o-w-e-r-writing-process/
