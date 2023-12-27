@@ -111,6 +111,22 @@ Please suggest three possible topic sentences for the following paragraph. Here 
 
 # <ins>R</ins>ewriting
 
+## Rewriting Workflow
+
+1. Evaluate the comprehensiveness of content coverage. (See AI prompt below.)
+1. Edit for grammar and punctuation. (See AI prompt below.)
+2. Edit for structure and organization. (See AI prompt below.)
+3. Edit for clarity and conciseness. (See AI prompt below.)
+4. Edit for consistent tone. (See AI prompt below.)
+5. Reader Expectation Approach considerations (See Reader Expectation Approach to Writing link below.)
+    1. Is the main action of each sentence conveyed by the verb?
+    2. Do any sentences have long subject-verb separations making them hard to read?
+    3. Does the topic position of each sentence have the correct entity for the intended story?
+    4. Does each sentence have the old information needed to link backward in the Topic position?
+    5. Is stressworthy information in each sentence in a stress position?
+    6. Is the paragraph issue in the first one to three sentences of the paragraph?
+    7. Does the paragraph have a point? Is it articulated in the correct place?
+
 ## Analysis Techniques
 
 Train your brain to recognize and produce good writing. The rest of the tools listed in this guide will be of limited use if you don't have good analytical skills.
