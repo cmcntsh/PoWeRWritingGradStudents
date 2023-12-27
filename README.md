@@ -222,10 +222,19 @@ Please review my text for consistent tone in academic writing. Ensure that the l
 
 # References
 
-*American Psychological Association (Washington, District of Columbia) (Ed.). (2020). *Publication manual of the American psychological association (Seventh edition)*. American Psychological Association.
+* American Psychological Association (Washington, District of Columbia) (Ed.). (2020). *Publication manual of the American psychological association (Seventh edition)*. American Psychological Association.
 * Booth, W. C., Colomb, G. G., Williams, J. M., Bizup, J., & FitzGerald, W. T. (2016). *The craft of research (Fourth edition)*. The University of Chicago Press.
 * Dang, D., Dearholt, S. L., Bissett, K., Whalen, M., & Ascenzi, J. (2021). *Johns Hopkins evidence-based practice for nurses and healthcare professionals: Model & guidelines (Fourth edition)*. Sigma Theta Tau International.
+* Ellis, M. (2021a). The ultimate guide to paragraphs. Grammarly, Inc. Retrieved November 18 from https://www.grammarly.com/blog/paragraphs/
+* Ellis, M. (2021b). How to write better sentences. Grammarly, Inc. Retrieved November 18 from https://www.grammarly.com/blog/sentences/
+* Ellis, M. (2022, June 2, 2022). How to write strong paragraphs. Grammarly, Inc. Retrieved November 18 from https://www.grammarly.com/blog/paragraph-structure/
 * Krause, T. (2022). 2.5 Getting ready to write: The P.O.W.E.R. writing process. In OpenOregon Educational Resources, *Synthesis*. https://openoregon.pressbooks.pub/synthesis/chapter/getting-ready-to-write-the-p-o-w-e-r-writing-process/
 * Ogrinc, G., Davies, L., Goodman, D., Batalden, P., Davidoff, F., & Stevens, D. (2016). SQUIRE 2.0 ( Standards for QUality Improvement Reporting Excellence): Revised publication guidelines from a detailed consensus process: Table 1. *BMJ Quality & Safety*, 25(12), 986–992. https://doi.org/10.1136/bmjqs-2015-004411
+* Purdue Online Writing Lab. (n.d.). Reverse outlining: An exercise for taking notes and revising your work. Purdue University. Retrieved November 18, 2022 from https://owl.purdue.edu/owl/general_writing/the_writing_process/reverse_outlining.html
+* Purdue Online Writing Lab. (2022a). On Paragraphs. Purdue University. Retrieved January 25, 2023 from https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.html
+* Purdue Online Writing Lab. (2022b). Tone in business writing. Retrieved February 7, 2023 from https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/tone_in_business_writing.html
 * Sainani, K. (n.d.). 4.2 Overview of the writing process [Coursera lecture]. In Stanford University, *Writing in the sciences*. Coursera. Retrieved December 24, 2023, from https://www.coursera.org/learn/sciwrite/lecture/vPzd8/4-3-the-pre-writing-step
+* Streetwriters. (2021, March 15, 2021). How to write excellent sentences: A guide to sentences structure. Streetwriters LLC. Retrieved November 18, 2022 from https://blog.streetwriters.co/how-to-write-good-sentences/
+* The Writing Center. (n.d.). Reverse outlines: A writer's technique for examing organization. University of Wisconsin - Madison. Retrieved November 18, 2022 from https://writing.wisc.edu/handbook/process/reverseoutlines/ 
+
 
