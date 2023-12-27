@@ -142,6 +142,11 @@ Similar cautions apply to paragraph length. Single-sentence paragraphs are abrup
   * [How to Write Excellent Sentences: A Guide to Sentences Structure](https://blog.streetwriters.co/how-to-write-good-sentences/) (Streetwriters, 2021)
   * (new in 2023) ChatGPT (https://openai.com/blog/chatgpt/) can also help fix problem sentences.
  
+### Professional Voice
+
+* [Tone in Business Writing](https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/tone_in_business_writing.html) (Purdue Online Writing Lab, 2022)
+* [How to Make Writing Sound More Professional](https://www.grammarly.com/business/learn/how-to-make-your-writing-sound-more-professional/) (Grammarly Business, 2021)
+
 ### Analysis Example
 
 #### Here are the things I’m looking for: 
