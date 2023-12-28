@@ -111,6 +111,8 @@ Please suggest three possible topic sentences for the following paragraph. Here 
 
 # <ins>R</ins>ewriting
 
+Rewriting or revision is the stage where most evaluation takes place. Rewriting is an iterative process, and multiple checks and revisions may be needed to ensure adequate coverage of the intended material, correct spelling and grammar are used, and other stylistic choices lead to the clearest writing possible and the best experience for the reader.
+
 ## Rewriting Workflow
 
 1. Evaluate the comprehensiveness of content coverage. (See AI prompt below.)
