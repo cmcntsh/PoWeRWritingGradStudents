@@ -30,6 +30,7 @@ Prewriting is the stage where you collect and organize information (Sainani, n.d
 ### Divide a Paper into Sections
 
 * If it has not been done already, you may find it beneficial to divide your paper into specific sections and understand the content that should be included in each section.
+* Create an outline based on the required sections.
 
 ### Evaluating Evidence
 
@@ -42,9 +43,10 @@ Several tools can help with parts of the prewriting process.
 
 ### Finding Evidence
 
-I maintain a list of AI literature search tools.
-
-* Searching for Literature https://github.com/cmcntsh/LitSearchAIResources
+* Search scholarly databases.
+  * Here is a link to the Eccles Library website https://library.med.utah.edu/
+* I maintain a list of AI literature search tools.
+  * Searching for Literature https://github.com/cmcntsh/LitSearchAIResources
 
 ### Working with References
 
