@@ -97,7 +97,7 @@ Writing is the stage where you produce your first draft of organized text. At th
 
 ### AI Prompts to Help with Writing
 
-I currently recommend these tools for general-purpose text prompts: 1) https://chat.openai.com/ 2) https://bard.google.com/chat 3) https://claude.ai/chats
+I currently recommend these tools for general-purpose text prompts: (See tools at https://github.com/cmcntsh/PoWeRWritingGradStudents/blob/main/README.md#ai-prompts-to-help-organize-text)
 
 #### Help writing paragraphs
 
@@ -194,7 +194,7 @@ Similar cautions apply to paragraph length. Single-sentence paragraphs are abrup
 
 ### AI Prompts to Help with Rewriting
 
-I currently recommend these tools for general-purpose text prompts: 1) https://chat.openai.com/ 2) https://bard.google.com/chat 3) https://claude.ai/chats I would use the following prompts on individual sections of your paper and not the entire paper all at once. I would use each prompt individually, evaluate the suggested changes, and update your text as desired before moving to the next prompt. I would then use your revised text as the starting point for the next editing prompt.
+I currently recommend these tools for general-purpose text prompts: (See tools at https://github.com/cmcntsh/PoWeRWritingGradStudents/blob/main/README.md#ai-prompts-to-help-organize-text) I would use the following prompts on individual sections of your paper and not the entire paper all at once. I would use each prompt individually, evaluate the suggested changes, and update your text as desired before moving to the next prompt. I would then use your revised text as the starting point for the next editing prompt.
 
 #### Evaluate the Comprehensiveness of Content Coverage
 
