@@ -63,7 +63,14 @@ If you are citing more than a handful of sources in your writing, I recommend us
 
 ### AI Prompts to Help Organize Text
 
-I currently recommend these tools for general-purpose text prompts: 1) https://chat.openai.com/ 2) https://bard.google.com/chat 3) https://claude.ai/chats
+I currently recommend these tools for general-purpose text prompts:
+
+| Link | Model | Company | Testing Status | Limitations | As of Date |
+| --- | --- | --- | --- | --- | --- |
+| https://copilot.microsoft.com/ | GPT 4.0 Turbo | Microsoft | little testing | 2000 character input limit (need to split text up into chunks) | 01/15/2024 |
+| https://chat.openai.com/ | GPT 3.5 | OpenAI | little testing | | 01/15/2024 |
+| https://bard.google.com/chat | Gemini | Google | little testing | | 01/15/2024 |
+| https://claude.ai/chats | Claude | Anthropic | untested | | 01/15/2024 |
 
 Prompt:
 
