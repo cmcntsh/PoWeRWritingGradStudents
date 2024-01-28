@@ -246,17 +246,17 @@ Prompt: (I get inconsistent results with the report, but the revision text is no
 ```
 Please generate a report about the following text, which is enclosed by double quotes, based on the following criteria:
 Identify grammar, syntax, usage, spelling, and punctuation errors and suggest specific improvements;
-in addition Identify plagiarism and suggest specific improvement;
-in addition Report document statistics;
-in addition Report vocabulary statistics:
-in addition Report the readability score;
-in addition Report the tone type (available options are Formal, Informal, Optimistic, Worried, Friendly, Curious, Assertive, Encouraging, Surprised, or Cooperative);
-in addition Report the intent type (available options are  Inform, Describe, Convince, or Tell A Story);
-in addition Report the audience type (available options are General, Knowledgeable, or Expert);
-in addition Report the style type (available options are formal or informal);
-in addition Report the emotion type (available options are mild or strong);
-in addition Report the domain type (available options are General, Academic, Business, Technical, Creative, or Casual);
-in addition Report the Flesch-Kincaid Grade Level.
+in addition, Identify plagiarism and suggest specific improvements;
+in addition, Report document statistics;
+in addition, Report vocabulary statistics:
+in addition, Report the readability score;
+in addition, Report the tone type (available options are Formal, Informal, Optimistic, Worried, Friendly, Curious, Assertive, Encouraging, Surprised, or Cooperative);
+in addition, Report the intent type (available options are  Inform, Describe, Convince, or Tell A Story);
+in addition, Report the audience type (available options are General, Knowledgeable, or Expert);
+in addition, Report the style type (available options are formal or informal);
+in addition, Report the emotion type (available options are mild or strong);
+in addition, Report the domain type (available options are General, Academic, Business, Technical, Creative, or Casual);
+in addition, Report the Flesch-Kincaid Grade Level.
 Please provide revised text that adheres to the following instructions:
 If the Flesh-Kincaid Grade level of the text is higher than 15, can you rewrite the text so that the grade level should be around 15, assuming that the audience type is Knowledgeable or Expert;
 In addition, if the domain type of the text is Casual, then the text that you rewrite should have a domain type that is either academic or technical;
