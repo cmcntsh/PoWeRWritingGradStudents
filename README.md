@@ -120,15 +120,16 @@ Please suggest three possible topic sentences for the following paragraph. Here 
 
 # <ins>R</ins>ewriting
 
-Rewriting or revision is the stage where most evaluation takes place. Rewriting is an iterative process, and multiple checks and revisions may be needed to ensure adequate coverage of the intended material, correct spelling and grammar are used, and other stylistic choices lead to the clearest writing possible and the best experience for the reader.
+Rewriting or revision is the stage where most evaluation takes place. Rewriting is an iterative process, and multiple checks and revisions may be needed to ensure adequate coverage of the intended material, correct spelling and grammar are used, and other stylistic choices lead to the clearest writing possible and the best experience for the reader. In professional publishing, editing is often broken down into three main phases: substantive editing - focused on structure and organization; copyediting - focused on correcting sentence problems; and proofreading - focused on final appearance (Grammarly, 2023).
 
 ## Rewriting Workflow
 
-1. Evaluate the comprehensiveness of content coverage. (See AI prompt below.)
-1. Edit for grammar and punctuation. (See AI prompt below.)
-2. Edit for structure and organization. (See AI prompt below.)
-3. Edit for clarity and conciseness. (See AI prompt below.)
-4. Edit for consistent tone. (See AI prompt below.)
+1. Correct grammar and punctuation before sending your work to other people. (See AI Prompts to Help with Rewriting below.)
+2. Evaluate the comprehensiveness of content coverage. (See AI Prompts to Help with Rewriting below.)
+1. Edit for grammar and punctuation. (See AI Prompts to Help with Rewriting below.)
+2. Edit for structure and organization. (See AI Prompts to Help with Rewriting below.)
+3. Edit for clarity and conciseness. (See AI Prompts to Help with Rewriting below.)
+4. Edit for consistent tone. (See AI Prompts to Help with Rewriting below.)
 5. Reader Expectation Approach considerations (See Reader Expectation Approach to Writing link below.)
     1. Is the main action of each sentence conveyed by the verb?
     2. Do any sentences have long subject-verb separations making them hard to read?
@@ -138,9 +139,9 @@ Rewriting or revision is the stage where most evaluation takes place. Rewriting 
     6. Is the paragraph issue in the first one to three sentences of the paragraph?
     7. Does the paragraph have a point? Is it articulated in the correct place?
 
-## Analysis Techniques
+## Manual Writing Analysis Techniques
 
-Train your brain to recognize and produce good writing. The rest of the tools listed in this guide will be of limited use if you don't have good analytical skills.
+Automated writing tools have come a long way, but they're still not a complete replacement for your most powerful writing tool - your own ability to craft what you intend to say. Train your brain to recognize and produce good writing. The rest of the tools listed in this guide will be of limited use if you don't have good analytical skills.
 
 ### Reader Expectation Approach to Writing
 
@@ -195,6 +196,14 @@ Similar cautions apply to paragraph length. Single-sentence paragraphs are abrup
 ### AI Prompts to Help with Rewriting
 
 I currently recommend these tools for general-purpose text prompts: (See tools at https://github.com/cmcntsh/PoWeRWritingGradStudents/blob/main/README.md#ai-prompts-to-help-organize-text) I would use the following prompts on individual sections of your paper and not the entire paper all at once. I would use each prompt individually, evaluate the suggested changes, and update your text as desired before moving to the next prompt. I would then use your revised text as the starting point for the next editing prompt.
+
+#### Preliminary check of grammar and spelling before sending your work to others
+
+Prompt: Review each sentence for spelling, grammar, and punctuation problems (This prompt worked slightly better if I did it in two steps. Step 1 - Ask for each sentence to be split into a separate line and numbered and submit the text. Step 2 - Ask for a review of each sentence for grammar, syntax, usage, spelling and punctuation errors and specific suggestions for improvements.)
+
+```
+Please list each sentence of this text in a new line, and please number the lines. In addition, please review each sentence for grammar, syntax, usage, spelling, and punctuation errors and suggest specific improvements. Here is the text: "[paste text here inside quotes]"
+```
 
 #### Evaluate the Comprehensiveness of Content Coverage
 
@@ -282,6 +291,7 @@ Here is the text: "[paste text here]"
 * Ellis, M. (2021a). *The ultimate guide to paragraphs*. Grammarly, Inc. Retrieved November 18 from https://www.grammarly.com/blog/paragraphs/
 * Ellis, M. (2021b). *How to write better sentences*. Grammarly, Inc. Retrieved November 18 from https://www.grammarly.com/blog/sentences/
 * Ellis, M. (2022, June 2, 2022). *How to write strong paragraphs*. Grammarly, Inc. Retrieved November 18 from https://www.grammarly.com/blog/paragraph-structure/
+* Grammarly. (2023, October 28). How to edit writing in 3 steps. https://www.grammarly.com/blog/editing/
 * Krause, T. (2022). 2.5 Getting ready to write: The P.O.W.E.R. writing process. In OpenOregon Educational Resources, *Synthesis*. https://openoregon.pressbooks.pub/synthesis/chapter/getting-ready-to-write-the-p-o-w-e-r-writing-process/
 * Ogrinc, G., Davies, L., Goodman, D., Batalden, P., Davidoff, F., & Stevens, D. (2016). SQUIRE 2.0 ( Standards for QUality Improvement Reporting Excellence): Revised publication guidelines from a detailed consensus process: Table 1. *BMJ Quality & Safety*, 25(12), 986–992. https://doi.org/10.1136/bmjqs-2015-004411
 * Purdue Online Writing Lab. (n.d.). *Reverse outlining: An exercise for taking notes and revising your work*. Purdue University. Retrieved November 18, 2022 from https://owl.purdue.edu/owl/general_writing/the_writing_process/reverse_outlining.html
