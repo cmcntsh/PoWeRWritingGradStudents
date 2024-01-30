@@ -202,7 +202,7 @@ I currently recommend these tools for general-purpose text prompts: (See tools a
 Prompt: Review each sentence for spelling, grammar, and punctuation problems (This prompt worked slightly better if I did it in two steps. Step 1 - Ask for each sentence to be split into a separate line and numbered and submit the text. Step 2 - Ask for a review of each sentence for grammar, syntax, usage, spelling and punctuation errors and specific suggestions for improvements.)
 
 ```
-Please list each sentence of this text in a new line, and please number the lines. In addition, please review each sentence for grammar, syntax, usage, spelling, and punctuation errors and suggest specific improvements. Here is the text: "[paste text here inside quotes]"
+Please list each sentence of this text in a new line, and please number the lines. In addition, please review each sentence for grammar, syntax, usage, spelling, and punctuation errors and suggest specific improvements. When suggesting revisions, please list the sentence number, the original sentence, the reason a revision might be needed, and then the revised sentence. If no revision is suggested, please indicate that no revision is needed.  Here is the text: "[paste text here inside quotes]"
 ```
 
 #### Evaluate the Comprehensiveness of Content Coverage
