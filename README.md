@@ -70,7 +70,7 @@ I currently recommend these tools for general-purpose text prompts:
 | https://chat.openai.com/ | GPT 3.5 | OpenAI | moderate testing | confused on more complex tasks | 01/31/2024 |
 | https://copilot.microsoft.com/ | GPT 4.0 Turbo | Microsoft | little testing | 2000 character input limit (need to split text up into chunks) | 01/31/2024 |
 | https://claude.ai/chats | Claude | Anthropic | little testing | | 01/31/2024 |
-| https://bard.google.com/chat | Gemini | Google | little testing | superficial analysis, minimal feedback on writing evaluation | 01/31/2024 |
+| https://gemini.google.com/app | Gemini | Google | little testing | superficial analysis, minimal feedback on writing evaluation | 02/26/2024 |
 | https://chat.mistral.ai/chat | Mistral Large | Mistral | Untested |  | 02/26/2024 |
 
 Prompt:
