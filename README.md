@@ -98,7 +98,7 @@ Writing is the stage where you produce your first draft of organized text. At th
 
 ### AI Prompts to Help with Writing
 
-I currently recommend these tools for general-purpose text prompts: (See tools at https://github.com/cmcntsh/PoWeRWritingGradStudents/blob/main/README.md#ai-prompts-to-help-organize-text)
+I currently recommend these tools for general-purpose text prompts: (See tools at https://github.com/cmcntsh/PoWeRWritingGradStudents#ai-prompts-to-help-organize-text)
 
 #### Help writing paragraphs
 
