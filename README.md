@@ -76,7 +76,7 @@ I currently recommend these tools for general-purpose text prompts:
 Prompt:
 
 ```
-Please organize this text into the following categories: 1) [category 1], 2) [category 2], 3) [category 3]
+Please organize this text into the following categories: 1) [category 1], 2) [category 2], 3) [category 3] Here is the text: "[paste your text here]"
 ```
 
 <br>  
