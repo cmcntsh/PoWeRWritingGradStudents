@@ -193,7 +193,7 @@ Similar cautions apply to paragraph length. Single-sentence paragraphs are abrup
 
 #### Highlighting:
 
-![highlighting example](HighlightingFeedback.png)
+![highlighting example](HighlightingFeedback2.png)
 
 ## Rewriting Tools
 
