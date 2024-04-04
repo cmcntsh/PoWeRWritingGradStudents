@@ -150,6 +150,12 @@ I attended a presentation by an emeritus professor of rhetoric named George Gope
 
 * Reader Expectation Approach readings and exercises https://github.com/cmcntsh/ReaderExpectationReadingExercises
 
+### Analyze the Rhetoric in a Piece of Writing
+
+I did exercises like this during my PhD program. They were very useful for helping me understand writing better.
+
+* Understanding What You Read with the Rhetorical Precis (13 min) https://www.youtube.com/watch?v=w2uICmMcKxI
+
 ### Paragraphs
 
 * A lot of final refinement work will consist of evaluating and refining the content and order of your paragraphs.
