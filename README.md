@@ -323,22 +323,6 @@ Multinuclear Restatement	An item is primarily a reexpression of one linked to it
 Sequence	There is a succession relationship between the situations in the nuclei	R recognizes the succession relationships among the nuclei.
 ```
 
-#### Edit for grammar and style
-
-Prompt
-
-```
-Please review my text for grammar and style. Check for any grammatical errors, awkward phrasing, or areas where the writing style can be improved. If you notice any repetitive or unclear language, provide specific suggestions for enhancement. Here is the text: "[past text here in quotes]".
-```
-
-#### Edit for structure and organization
-
-Prompt
-
-```
-Please review this text for overall structure and organization. Ensure that the ideas flow logically, and the paragraphs are well-connected. If you identify any areas where the organization could be improved or suggest restructuring for better clarity, please provide specific recommendations. Here is the text: "[past text here in quotes]".
-```
-
 #### Edit for clarity and conciseness
 
 Prompt
@@ -362,7 +346,6 @@ Prompt: (I get inconsistent results with the report, but the revision text is no
 ```
 Please generate a report about the following text, which is enclosed by double quotes, based on the following criteria:
 Identify grammar, syntax, usage, spelling, and punctuation errors and suggest specific improvements;
-in addition, Identify plagiarism and suggest specific improvements;
 in addition, Report document statistics;
 in addition, Report vocabulary statistics:
 in addition, Report the readability score;
