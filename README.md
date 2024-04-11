@@ -150,7 +150,7 @@ I attended a presentation by an emeritus professor of rhetoric named George Gope
 
 * Reader Expectation Approach readings and exercises https://github.com/cmcntsh/ReaderExpectationReadingExercises
 
-### Analyze the Rhetoric in a Piece of Writing
+### Analyze the Rhetorical Purpose of a Piece of Writing
 
 I did exercises like this during my PhD program. They were very useful for helping me understand writing better.
 
@@ -221,6 +221,106 @@ Prompt:
 ```
 How well does the following text answer each of these questions? Question 1? Question 2? Question 3? Etc? 
 Here is the text: "[Paste the text you want evaluated here.]"
+```
+
+#### Evaluate the Discourse Relations Between the Topic of a Paragraph and Each Sentence
+
+This prompt relies on discourse relations as defined in Rhetorical Structure Theory (RST). It is a way to analyze how each sentence is related to the main topic in a paragraph. (Some paragraphs are more cohesively constructed than others.) The prompt worked in ChatGPT on its own, but it may do better if RST background information is loaded into ChatGPT first.
+
+* RST discourse relationship definitions page: https://www.sfu.ca/rst/01intro/definitions.html
+
+Stand-alone prompt:
+
+```
+Here is my analysis request. You are an expert in rhetorical structure theory. I need you to help me evaluate the discourse relationship between the main topic of a paragraph and each sentence in the paragraph. Please list each sentence on a separate line and number each sentence. For each sentence please assign a discourse relation. (The available relationship options are antithesis, background, concession, enablement, evidence, justify, motivation, preparation, restatement, summary, circumstance, condition, elaboration, evaluation, interpretation, means, cause, result, otherwise, purpose, solutionhood, unconditional, unless, conjunction, contrast, disjunction, joint, list, restatement, sequence, and no discourse relationship identified.) In addition, please rate the strength of the relationship between the topic and the sentence. (The available strength options are no relationship, weakly related, and strongly related.) Here is the main topic of the paragraph: "[paste topic sentence here]" Here are the sentences in the paragraph: "[paste paragraph sentences here]"![image](https://github.com/cmcntsh/PoWeRWritingGradStudents/assets/32034299/cba2fcbb-ff1e-4615-afd5-bbcfaf2784ee)
+```
+
+Load RST background information: These prompts are submitted in succession, then the stand-alone prompt with the text for analysis is submitted at the end. The text for the background prompts comes from the RST definitions web page link given above.
+
+```
+I'm going to give you some background on Rhetorical Structure Theory and then I'm going to give you a request to analyze some text based on the background. Don't respond until I give you a request that begins with "Here is my analysis request:"
+```
+
+```
+Here is the background about Rhetorical Structure Theory: The basic paper on RST, published in Text 8(3), was derived from an earlier report, ISI-RS-87-190. That report had, along with the relation definitions, one or more examples and some commentary for each relation. Portions of that information are available from the bibliographies section in this website, and an example has also been included for each of the four newer relations mentioned below. Some of the examples are from other sources, including the analyses in other sections of the website. To find these examples, look just below each table of relation definitions.
+
+Each element of the definition is implicitly embedded in a constraint formula as follows: "It is plausible to the analyst that it was plausible to the author that ... ."
+
+On terminology in definitions: N stands for nucleus, S for satellite, W for writer (author, speaker) and R for reader (hearer.) For some brevity: in many places, N and S stand for the situations presented by N and S; N and S never stand for the text of N or S. Situation is a broad cover term that ranges over propositions or beliefs, actions whether realized or not, desires to act and approval for another to act. Similarly, positive regard is a broad attitudinal term that ranges over belief, approval of ideas, desire to act, and approval for another to act, all identifiably positive. Positive regard and belief (with its cognates), and plausible above are all degree terms, not binary.
+
+Notice that the name of the relation does not enter into the use of the definition. Finding good names for all of the relations is difficult or perhaps impossible, so some of the definitions will seem inappropriate for the name; see, for example, Justify.
+
+The relations are classified into two main types: nucleus-satellite and multinuclear (see the Introduction). They can also be classified according to whether they are Presentational or Subject Matter. Presentational relations are those whose intended effect is to increase some inclination in the reader, such as the desire to act or the degree of positive regard for, belief in, or acceptance of the nucleus. Subject matter relations are those whose intended effect is that the reader recognizes the relation in question.
+
+In the three tables below, we present the relation name and its definition. By clicking on the relation name, you can see further examples and comments on each relation.
+```
+
+```
+Definitions of Presentational Relations
+Relation Name
+Constraints on either S or N individually
+Constraints on N + S
+Intention of W
+Antithesis	on N: W has positive regard for N	N and S are in contrast (see the Contrast relation); because of the incompatibility that arises from the contrast, one cannot have positive regard for both of those situations; comprehending S and the incompatibility between the situations increases R's positive regard for N	R's positive regard for N is increased
+Background	on N: R won't comprehend N sufficiently before reading text of S	S increases the ability of R to comprehend an element in N	R's ability to comprehend N increases
+Concession	on N: W has positive regard for N
+on S: W is not claiming that S does not hold;	W acknowledges a potential or apparent incompatibility between N and S; recognizing the compatibility between N and S increases R's positive regard for N	R's positive regard for N is increased
+Enablement	on N: presents an action by R (including accepting an offer), unrealized with respect to the context of N	R comprehending S increases R's potential ability to perform the action in N	R's potential ability to perform the action in N increases
+Evidence	on N: R might not believe N to a degree satisfactory to W
+on S: R believes S or will find it credible	R's comprehending S increases R's belief of N	R's belief of N is increased
+Justify	none	R's comprehending S increases R's readiness to accept W's right to present N	R's readiness to accept W's right to present N is increased
+Motivation	on N: N is an action in which R is the actor (including accepting an offer), unrealized with respect to the context of N	Comprehending S increases R's desire to perform action in N	R's desire to perform action in N is increased
+Preparation	none	S precedes N in the text; S tends to make R more ready, interested or oriented for reading N	R is more ready, interested or oriented for reading N
+Restatement	none	on N + S: S restates N, where S and N are of comparable bulk; N is more central to W's purposes than S is.	R recognizes S as a restatement of N
+Summary	on N: N must be more than one unit	S presents a restatement of the content of N, that is shorter in bulk	R recognizes S as a shorter restatement of N
+```
+
+```
+Definitions of Subject Matter Relations
+Relation Name
+Constraints on either S or N individually
+Constraints on N + S
+Intention of W
+Circumstance	on S: S is not unrealized	S sets a framework in the subject matter within which R is intended to interpret N	R recognizes that S provides the framework for interpreting N
+Condition	on S: S presents a hypothetical, future, or otherwise unrealized situation (relative to the situational context of S)	Realization of N depends on realization of S	R recognizes how the realization of N depends on the realization of S
+Elaboration	none	S presents additional detail about the situation or some element of subject matter which is presented in N or inferentially accessible in N in one or more of the ways listed below. In the list, if N presents the first member of any pair, then S includes the second:
+set :: member
+abstraction :: instance
+whole :: part
+process :: step
+object :: attribute
+generalization :: specific
+R recognizes S as providing additional detail for N. R identifies the element of subject matter for which detail is provided.
+Evaluation	none	on N + S: S relates N to degree of W's positive regard toward N.	R recognizes that S assesses N and recognizes the value it assigns
+Interpretation	none	on N + S: S relates N to a framework of ideas not involved in N itself and not concerned with W's positive regard	R recognizes that S relates N to a framework of ideas not involved in the knowledge presented in N itself
+Means	on N: an activity	S presents a method or instrument which tends to make realization of N more likely	R recognizes that the method or instrument in S tends to make realization of N more likely
+Non-volitional Cause	on N: N is not a volitional action	S, by means other than motivating a volitional action, caused N; without the presentation of S, R might not know the particular cause of the situation; a presentation of N is more central than S to W's purposes in putting forth the N-S combination.	R recognizes S as a cause of N
+Non-volitional Result	on S: S is not a volitional action	N caused S; presentation of N is more central to W's purposes in putting forth the N-S combination than is the presentation of S.	R recognizes that N could have caused the situation in S
+Otherwise	on N: N is an unrealized situation
+on S: S is an unrealized situation	realization of N prevents realization of S	R recognizes the dependency relation of prevention between the realization of N and the realization of S
+Purpose	on N: N is an activity;
+on S: S is a situation that is unrealized	S is to be realized through the activity in N	R recognizes that the activity in N is initiated in order to realize S
+Solutionhood	on S: S presents a problem	N is a solution to the problem presented in S;	R recognizes N as a solution to the problem presented in S
+Unconditional	on S: S conceivably could affect the realization of N	N does not depend on S	R recognizes that N does not depend on S
+Unless	none	S affects the realization of N; N is realized provided that S is not realized	R recognizes that N is realized provided that S is not realized
+Volitional Cause	on N: N is a volitional action or else a situation that could have arisen from a volitional action	S could have caused the agent of the volitional action in N to perform that action; without the presentation of S, R might not regard the action as motivated or know the particular motivation; N is more central to W's purposes in putting forth the N-S combination than S is.	R recognizes S as a cause for the volitional action in N
+Volitional Result	on S: S is a volitional action or a situation that could have arisen from a volitional action	N could have caused S; presentation of N is more central to W's purposes than is presentation of S;	R recognizes that N could be a cause for the action or situation in S
+```
+
+```
+Definitions of Multinuclear Relations
+Relation Name
+Constraints on each pair of N
+Intention of W
+Conjunction	The items are conjoined to form a unit in which each item plays a comparable role
+R recognizes that the linked items are conjoined
+Contrast	No more than two nuclei; the situations in these two nuclei are (a) comprehended as the same in many respects (b) comprehended as differing in a few respects and (c) compared with respect to one or more of these differences	R recognizes the comparability and the difference(s) yielded by the comparison is being made
+Disjunction	An item presents a (not necessarily exclusive) alternative for the other(s)
+R recognizes that the linked items are alternatives
+Joint	None	none
+List	An item comparable to others linked to it by the List relation	R recognizes the comparability of linked items
+Multinuclear Restatement	An item is primarily a reexpression of one linked to it; the items are of comparable importance to the purposes of W	R recognizes the reexpression by the linked items
+Sequence	There is a succession relationship between the situations in the nuclei	R recognizes the succession relationships among the nuclei.
 ```
 
 #### Edit for grammar and style
