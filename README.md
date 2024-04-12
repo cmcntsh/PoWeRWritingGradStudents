@@ -95,6 +95,7 @@ Writing is the stage where you produce your first draft of organized text. At th
 ## Writing Tools
 
 * I always recommend the use of Grammarly. Graduate students at the U of U have free access. https://gradschool.utah.edu/resources-hub/grammarly/index.php
+* The [Graduate Student Writing Center](https://writingcenter.utah.edu/) is a good resource for writing help.
 
 ### AI Prompts to Help with Writing
 
