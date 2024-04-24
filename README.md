@@ -371,6 +371,7 @@ Here is the text: "[paste text here]"
 
 * This link explains how to use [Track Changes in Word](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a).
 * This link explains how to use [Comments in Word](https://support.microsoft.com/en-us/office/insert-or-delete-a-comment-8d3f868a-867e-4df2-8c68-bf96671641e2).
+* Sometimes it's easy to forget to turn on Track Changes or Track Changes has a problem and not all changes are captured. Word also has a document compare tool that shows similarities and differences between two documents. This link explains how to use [Compare Documents in Word](https://support.microsoft.com/en-us/office/compare-and-merge-two-versions-of-a-document-f5059749-a797-4db7-a8fb-b3b27eb8b87e).
 
 <br>  
 <br>  
