@@ -168,6 +168,12 @@ I did exercises like this during my PhD program. They were very useful for helpi
     * "You may have learned that every paragraph should begin with a topic sentence and be directly relevant to the section in which it appears. Those are good rules of thumb, but applied too strictly they can make your writing seem stiff. The important thing is to structure and arrange your paragraphs so that they lead your readers through the conversation you are orchestrating. Open each paragraph with a sentence or two that signal its key concepts. Doing that will help readers better understand what follows. If your opening doesn't also state the paragraph's point, then your last sentence should. Never bury the point in the middle." (Booth et al, 2016, p. 195)
     * "There is no minimum or maximum sentence length in APA Style. Overuse of short, simple sentences produces choppy prose, however, and overuse of long, involved sentences results in difficult, sometimes incomprehensible, language. Varied sentence length helps readers maintain interest and comprehension. When involved concepts require long sentences, the components should proceed logically. Avoid including multiple ideas in a single sentence; instead, break the sentence into shorter ones. Direct, declarative sentences with simple, common words are usually best.
 Similar cautions apply to paragraph length. Single-sentence paragraphs are abrupt and should be used infrequently. Paragraphs that are too long (i.e., longer than one double-spaced manuscript page) risk losing readers' attention. A new paragraph signals a shift to a new idea and provides a pause for readers - a chance to assimilate one step in the conceptual development before beginning another. Look for a logical place (or places) to break up a long paragraph or reorganize the material." (American Psychological Association, 2020, p. 115)
+    * What's at Issue? The Construction of the English Paragraph, Part I https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_19_construction-english-paragraph.pdf
+    * What's at Issue? The Construction of the English Paragraph, Part II https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_20_whats_at_issue_part_2.pdf
+    * Connectivity: The Construction of the English Paragraph, Part III https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_21_connectivity.pdf
+    * The Point of a Paragraph and Where to Find It: The Construction of the English Paragraph, Part IV https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_22_point-of-paragraph.pdf
+    * Five Varieties of Point Placement: The Construction of the English Paragraph, Part V https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_23_five-varieties-point-placement.pdf
+    * How Paragraphs Speak to Each Other https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_24_--_how_paragraphs_speak_to_each_other.pdf
   * One exercise you can use to evaluate the quality of your paragraphs and the sequence of your logic is called Reverse Outlining.
     * [Reverse Outlining: An Exercise for Taking Notes and Revising Your Work](https://owl.purdue.edu/owl/general_writing/the_writing_process/reverse_outlining.html) (Purdue Online Writing Lab, n.d.)
     * [Reverse Outlines: A Writer's Technique for Examining Organization](https://writing.wisc.edu/handbook/process/reverseoutlines/) (The Writing Center, n.d.)
@@ -178,6 +184,11 @@ Similar cautions apply to paragraph length. Single-sentence paragraphs are abrup
   * [How to Write Better Sentences](https://www.grammarly.com/blog/sentences/) (Ellis, 2021b)
   * [How to Write Excellent Sentences: A Guide to Sentences Structure](https://blog.streetwriters.co/how-to-write-good-sentences/) (Streetwriters, 2021)
   * (new in 2023) ChatGPT (https://openai.com/blog/chatgpt/) can also help fix problem sentences.
+  * The Importance of Stress: Indicating the Most Important Words in a Sentence https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_2_stress_position.pdf
+  * Ensuring readers Know What Actions Are Happening in Any Sentence https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_3_actions_and_verbs.pdf
+  * Whose Story Is This Sentence? Directing Readers' Perception of Narrative https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_4_whose_story.pdf
+  * How to Overburden Your Reader; Separate Your Subject from Your Verb https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_8_s_v_c_separation.pdf
+  * A Quiver of Punctuation: How to Handle Two Clauses in One Sentence https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_25_punctuation_quiver___handling_2_clauses_in_1_sentence.pdf
  
 ### Professional Voice
 
