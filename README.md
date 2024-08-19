@@ -188,6 +188,7 @@ Similar cautions apply to paragraph length. Single-sentence paragraphs are abrup
 * This work will also consist of evaluating and refining your sentences.
   * [How to Write Better Sentences](https://www.grammarly.com/blog/sentences/) (Ellis, 2021b)
   * [How to Write Excellent Sentences: A Guide to Sentences Structure](https://blog.streetwriters.co/how-to-write-good-sentences/) (Streetwriters, 2021)
+  * Where does punctuation come from? (19 min) https://www.youtube.com/watch?v=k9Re5otW-v0
   * (new in 2023) ChatGPT (https://openai.com/blog/chatgpt/) can also help fix problem sentences.
   * The Importance of Stress: Indicating the Most Important Words in a Sentence https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_2_stress_position.pdf
   * Ensuring readers Know What Actions Are Happening in Any Sentence https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_3_actions_and_verbs.pdf
