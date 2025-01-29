@@ -78,6 +78,7 @@ I currently recommend these tools for general-purpose text prompts:
 | https://gemini.google.com/app | Gemini | Google | little testing | superficial analysis, minimal feedback on writing evaluation | 02/26/2024 |
 | https://chat.mistral.ai/chat | Mistral Large | Mistral | Untested |  | 02/26/2024 |
 | https://www.meta.ai/ | Llama 3 | Meta (Facebook) | untested | Seemed to struggle with longer prompt (4 pages of double-spaced text in Word) | 04/23/2024 |
+| https://chat.deepseek.com/ | DeepSeek | DeepSeek AI | untested |  | 01/28/2025 |
 
 Prompt:
 
