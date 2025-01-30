@@ -70,15 +70,16 @@ If you are citing more than a handful of sources in your writing, I recommend us
 
 I currently recommend these tools for general-purpose text prompts:
 
-| Link | Model | Company | Testing Status | Limitations | As of Date |
-| --- | --- | --- | --- | --- | --- |
-| https://chat.openai.com/ | GPT 3.5 | OpenAI | moderate testing | confused on more complex tasks | 01/31/2024 |
-| https://copilot.microsoft.com/ | GPT 4.0 Turbo | Microsoft | little testing | 2000 character input limit (need to split text up into chunks) | 01/31/2024 |
-| https://claude.ai/chats | Claude | Anthropic | little testing | | 01/31/2024 |
-| https://gemini.google.com/app | Gemini | Google | little testing | superficial analysis, minimal feedback on writing evaluation | 02/26/2024 |
-| https://chat.mistral.ai/chat | Mistral Large | Mistral | Untested |  | 02/26/2024 |
-| https://www.meta.ai/ | Llama 3 | Meta (Facebook) | untested | Seemed to struggle with longer prompt (4 pages of double-spaced text in Word) | 04/23/2024 |
-| https://chat.deepseek.com/ | DeepSeek | DeepSeek AI | untested |  | 01/28/2025 |
+| Link | Model | Company | Testing Status | Limitations | As of Date | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| https://chat.openai.com/ | GPT 3.5 | OpenAI | moderate testing | confused on more complex tasks | 01/31/2024 |  |
+| https://copilot.microsoft.com/ | GPT 4.0 Turbo | Microsoft | little testing | 2000 character input limit (need to split text up into chunks) | 01/31/2024 |  |
+| https://claude.ai/chats | Claude | Anthropic | little testing | | 01/31/2024 |  |
+| https://gemini.google.com/app | Gemini | Google | little testing | superficial analysis, minimal feedback on writing evaluation | 02/26/2024 |  |
+| https://chat.mistral.ai/chat | Mistral Large | Mistral | Untested |  | 02/26/2024 |  |
+| https://www.meta.ai/ | Llama 3 | Meta (Facebook) | untested | Seemed to struggle with longer prompt (4 pages of double-spaced text in Word) | 04/23/2024 |  |
+| https://chat.deepseek.com/ | DeepSeek | DeepSeek AI | untested |  | 01/28/2025 |  |
+| https://perplexity.ai | Perplexity | Perplexity AI | untested |  | 01/30/2025 | You can try DeepSeek R1 on Perplexity. perplexity.ai - log in - Click Pro button near prompt box - select Reasoning with R1 as the model |
 
 Prompt:
 
