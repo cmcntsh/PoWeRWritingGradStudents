@@ -5,7 +5,7 @@ Writing for graduate school can be broken down into phases or steps. The main st
 <br>  
 <br>  
 
-# Step #1: <ins>P</ins>rewriting
+# <ins>P</ins>rewriting
 
 Prewriting is the stage where you collect and organize information (Sainani, n.d.).
 
