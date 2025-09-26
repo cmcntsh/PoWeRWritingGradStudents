@@ -254,6 +254,12 @@ Which words in the sentence appear in the stress position just before a period, 
 Here is the text: "<Paste paragraph text here between quotes.>"
 ```
 
+#### Evaluate Which Sentences Need Supporting Citations and References
+
+```
+Since this is academic writing, which sentences have assertions that should be supported with a citation to a reference? Please list each sentence that needs a citation and why it needs one.
+```
+
 #### Evaluate the Discourse Relations Between the Topic of a Paragraph and Each Sentence
 
 This prompt relies on discourse relations as defined in Rhetorical Structure Theory (RST). It is a way to analyze how each sentence is related to the main topic in a paragraph. (Some paragraphs are more cohesively constructed than others.) The prompt worked in ChatGPT on its own, but it may do better if RST background information is loaded into ChatGPT first.
