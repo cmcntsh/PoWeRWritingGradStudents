@@ -134,20 +134,21 @@ Rewriting or revision is the stage where most evaluation takes place. Rewriting 
 
 ## Rewriting Workflow
 
-1. Correct grammar and punctuation before sending your work to other people. (See AI Prompts to Help with Rewriting below.)
+1. Correct spelling, grammar, and punctuation before sending your work to other people. (See AI Prompts to Help with Rewriting below.)
 2. Evaluate the comprehensiveness of content coverage. (See AI Prompts to Help with Rewriting below.)
-1. Edit for grammar and punctuation. (See AI Prompts to Help with Rewriting below.)
 2. Edit for structure and organization. (See AI Prompts to Help with Rewriting below.)
 3. Edit for clarity and conciseness. (See AI Prompts to Help with Rewriting below.)
 4. Edit for consistent tone. (See AI Prompts to Help with Rewriting below.)
-5. Reader Expectation Approach considerations (See Reader Expectation Approach to Writing link below.)
-    1. Is the main action of each sentence conveyed by the verb?
-    2. Do any sentences have long subject-verb separations making them hard to read?
-    3. Does the topic position of each sentence have the correct entity for the intended story?
-    4. Does each sentence have the old information needed to link backward in the Topic position?
-    5. Is stressworthy information in each sentence in a stress position?
-    6. Is the paragraph issue in the first one to three sentences of the paragraph?
-    7. Does the paragraph have a point? Is it articulated in the correct place?
+5. Final edit for spelling, grammar, and punctuation. (See AI Prompts to Help with Rewriting below.)
+6. Reader Expectation Approach considerations (See Reader Expectation Approach to Writing link below.)
+    1. How do the paragraphs in a section relate to each other?
+    2. Is the paragraph issue in the first one to three sentences of the paragraph?
+    3. Does the paragraph have a point? Is it articulated in the correct place?
+    4. Is the main action of each sentence conveyed by the verb?
+    5. Do any sentences have long subject-verb separations making them hard to read?
+    6. Does the topic position of each sentence have the correct entity for the intended story?
+    7. Does each sentence have the old information needed to link backward in the Topic position?
+    8. Is stressworthy information in each sentence in a stress position?
 
 ## Manual Writing Analysis Techniques
 
@@ -208,9 +209,9 @@ Similar cautions apply to paragraph length. Single-sentence paragraphs are abrup
 #### Here are the things I’m looking for: 
 
 * Section Content (appropriate and complete)
+* Logic and Flow (well-formed paragraphs, topic sentences, suitable transitions, logical arrangement, clearly written sentences)
 * Evidence (citations used when summarizing, paraphrasing, or quoting)
 * APA (spelling, grammar, headings, citation formatting, reference formatting, tables, figures, appendices)
-* Logic and Flow (well-formed paragraphs, topic sentences, suitable transitions, logical arrangement, clearly written sentences)
 
 #### Highlighting:
 
