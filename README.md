@@ -245,6 +245,17 @@ How well does the following text answer each of these questions? Question 1? Que
 Here is the text: "[Paste the text you want evaluated here.]"
 ```
 
+#### Analyze How Paragraphs in a Section Connect With Each Other
+
+I recommend doing this with each paper section separately.
+
+Prompt:
+
+```
+You are an expert editor of academic writing and scholarly articles. We are going to analyze this text according to the reader expectation approach to writing described by George Gopen. We are going to focus on the logic and flow between the paragraphs of a piece of writing. Gopen states that a backward link to the previous paragraph is easiest for the reader to make if it connects to the same two locations: (1) the beginning of the previous paragraph, where its issue is stated; or (2) the end of the previous paragraph - the nearest neighbor to this new paragraph. Backward connections to the middle of the previous paragraph are harder for the reader to perceive. For each paragraph, write out the paragraph. Then answer these questions about each paragraph. Does the paragraph have a single main issue? What is it? Does the paragraph have good logic and flow internally? Does the paragraph connect well with the previous paragraph? If there is a connection between the paragraph and the previous paragraph, does the paragraph connect with the beginning, middle, or end of the previous paragraph? Are the paragraphs arranged in a logical sequence? Do the paragraphs have good flow from one to the next?
+Here is the text: "<paste text here>"
+```
+
 #### Analyze a Paragraph and Each Sentence in the Paragraph Using Concepts from  George Gopen's Reader Expectation Approach to Writing
 
 ```
