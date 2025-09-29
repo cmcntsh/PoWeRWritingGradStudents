@@ -222,6 +222,12 @@ Similar cautions apply to paragraph length. Single-sentence paragraphs are abrup
 * I always recommend the use of Grammarly. Graduate students at the U of U have free access. https://gradschool.utah.edu/resources-hub/grammarly/index.php
 * The [Graduate Student Writing Center](https://writingcenter.utah.edu/) is a good resource.
 
+### Track Changes and comments in Word:
+
+* This link explains how to use [Track Changes in Word](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a).
+* This link explains how to use [Comments in Word](https://support.microsoft.com/en-us/office/insert-or-delete-a-comment-8d3f868a-867e-4df2-8c68-bf96671641e2).
+* Sometimes it's easy to forget to turn on Track Changes or Track Changes has a problem and not all changes are captured. Word also has a document compare tool that shows similarities and differences between two documents. This link explains how to use [Compare Documents in Word](https://support.microsoft.com/en-us/office/compare-and-merge-two-versions-of-a-document-f5059749-a797-4db7-a8fb-b3b27eb8b87e).
+
 ### AI Prompts to Help with Rewriting
 
 I currently recommend these tools for general-purpose text prompts: (See tools at https://github.com/cmcntsh/PoWeRWritingGradStudents/blob/main/README.md#ai-prompts-to-help-organize-text) I would use the following prompts on individual sections of your paper and not the entire paper all at once. I would use each prompt individually, evaluate the suggested changes, and update your text as desired before moving to the next prompt. I would then use your revised text as the starting point for the next editing prompt.
@@ -271,6 +277,8 @@ Here is the text: "<Paste paragraph text here between quotes.>"
 ```
 Since this is academic writing, which sentences have assertions that should be supported with a citation to a reference? Please list each sentence that needs a citation and why it needs one.
 ```
+
+### Experimental Prompts (Not Ready for Prime Time Yet)
 
 #### Evaluate the Discourse Relations Between the Topic of a Paragraph and Each Sentence
 
@@ -413,12 +421,6 @@ In addition, if the style type of the text is Informal, then the text that you r
 In addition, if the emotion type of the text is Strong, then the text that you rewrite should have a style type that is Mild.
 Here is the text: "[paste text here]"
 ```
-
-### Track Changes and comments in Word:
-
-* This link explains how to use [Track Changes in Word](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a).
-* This link explains how to use [Comments in Word](https://support.microsoft.com/en-us/office/insert-or-delete-a-comment-8d3f868a-867e-4df2-8c68-bf96671641e2).
-* Sometimes it's easy to forget to turn on Track Changes or Track Changes has a problem and not all changes are captured. Word also has a document compare tool that shows similarities and differences between two documents. This link explains how to use [Compare Documents in Word](https://support.microsoft.com/en-us/office/compare-and-merge-two-versions-of-a-document-f5059749-a797-4db7-a8fb-b3b27eb8b87e).
 
 <br>  
 <br>  
