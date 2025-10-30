@@ -280,6 +280,45 @@ Since this is academic writing, which sentences have assertions that should be s
 
 ### Experimental Prompts (Not Ready for Prime Time Yet)
 
+#### Improve Flow and Connectedness
+
+Prompt: Add transition words (from SuperHuman newsletter sent 10/30/2025 https://www.superhuman.ai/p/big-tech-kicks-off-earnings-season?utm_source=superhuman&utm_medium=newsletter&utm_campaign=big-tech-kicks-off-earnings-season&_bhlid=dd54f82af461cf7f1022066425b76d36e23ceb98)
+
+```
+Prompt: Your task is to improve the following text to create a seamless, engaging reading experience — while fully preserving its core message, tone, and intent.
+
+Step 1: Enhance Flow and Readability
+Apply the following flow-enhancement techniques naturally and selectively, only where they truly elevate the content:
+Contrast: while, whereas, on the other hand
+Reason: so, since, that’s why, therefore
+Exception: but, however, alternatively
+Example: like, such as, including
+Detail: also, in addition, in other words
+
+Guidelines:
+Ensure every paragraph flows smoothly into the next
+Strengthen logical transitions and narrative momentum
+Build bridges between ideas for clarity and rhythm
+Use the above connectors only when they serve the tone and context
+Avoid overusing or forcing them — focus on natural readability
+
+Step 2: Explain the Enhancements
+After producing the improved version, analyze your changes using this format for each key edit:
+Location/Section: [e.g., Introduction paragraph]
+Before: “…”
+After: “…”
+
+Technique(s) Applied: [e.g., Contrast + Reason]
+Why It Improves Flow: [brief explanation]
+
+Text to Improve:
+<TEXT>
+[Your text here]
+</TEXT>
+```
+
+
+
 #### Evaluate the Discourse Relations Between the Topic of a Paragraph and Each Sentence
 
 This prompt relies on discourse relations as defined in Rhetorical Structure Theory (RST). It is a way to analyze how each sentence is related to the main topic in a paragraph. (Some paragraphs are more cohesively constructed than others.) The prompt worked in ChatGPT on its own, but it may do better if RST background information is loaded into ChatGPT first.
