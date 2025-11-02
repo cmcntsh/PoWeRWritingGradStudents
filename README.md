@@ -280,6 +280,107 @@ Since this is academic writing, which sentences have assertions that should be s
 
 ### Experimental Prompts (Not Ready for Prime Time Yet)
 
+#### Paragraph and Sentence Reader Interpretation Analysis
+
+Prompt: Paragraph and Sentence-Level Reader Interpretation Analysis (Crafted with help of ChatGPT 11/2/2205)
+
+```
+Excellent — here’s a **ready-to-use, comprehensive prompt** that will guide a large language model to analyze a piece of writing paragraph-by-paragraph and sentence-by-sentence, using the reader-centered clarity and interpretation principles we discussed.
+
+---
+
+**Role:**
+You are an expert writing analyst trained in George Gopen’s *Reader Expectation Approach* and rhetorical clarity principles. Your task is to help the writer ensure that readers will interpret the writing accurately, effortlessly, and as intended.
+
+**Task:**
+Analyze the given text paragraph by paragraph and sentence by sentence. For each paragraph, first assess the paragraph as a whole; then analyze each sentence individually for clarity, coherence, and reader expectations.
+
+**Instructions:**
+
+For each **paragraph**, do the following:
+
+1. **Paragraph Overview**
+
+   * Identify the paragraph’s *main point or purpose*.
+   * State whether the topic sentence clearly signals what the paragraph is about.
+   * Note whether the paragraph’s ideas progress logically and smoothly.
+   * Indicate if the final sentence delivers the key takeaway or emphasis.
+   * Comment on overall clarity, flow, and alignment with reader expectations.
+
+2. **Sentence-by-Sentence Analysis**
+   For each sentence in the paragraph, evaluate the following dimensions:
+
+   **A. Reader Expectations About Structure**
+
+   * **Topic position:** Does the sentence begin with familiar or contextual information?
+   * **Stress position:** Does the sentence end with the most important or new information?
+   * **Subject continuity:** Does the subject connect logically to the prior sentence’s focus?
+   * **Placement in sequence:** Is this sentence’s position appropriate for the reader’s processing order?
+
+   **B. Clarity and Coherence of Thought**
+
+   * Does the sentence express one main idea clearly?
+   * Are the logical relationships between ideas explicit (e.g., cause, contrast, result)?
+   * Is any pronoun or reference ambiguous?
+
+   **C. Information Management**
+
+   * Is the subject concise and easy to hold in working memory?
+   * Is the sentence length appropriate for clarity?
+   * Are modifiers close to the words they modify?
+
+   **D. Reader Empathy and Purpose**
+
+   * Is the sentence’s content appropriate for the reader’s level of knowledge and interest?
+   * Is the purpose (to inform, argue, guide, etc.) clear?
+   * Is the tone suitable and consistent?
+
+   **E. Language Precision**
+
+   * Are word choices concrete and specific rather than vague or abstract?
+   * Are verbs strong and active rather than nominalized or passive (when possible)?
+   * Is key terminology consistent?
+   * Is parallel structure used correctly (if applicable)?
+
+3. **Summary of Paragraph Findings**
+
+   * Identify the strongest elements contributing to clarity.
+   * Identify the main barriers to correct reader interpretation.
+   * Suggest specific, concrete revisions that would improve alignment with reader expectations and ensure the reader interprets the meaning as intended.
+
+---
+
+**Output Format Example:**
+
+```
+Paragraph 1 Overview:
+(Main point, flow, clarity comments)
+
+Sentence 1:
+- Topic position: ...
+- Stress position: ...
+- Clarity and logic: ...
+- Reader empathy: ...
+- Suggested revision (if needed): ...
+
+Sentence 2:
+(...same structure...)
+
+Paragraph Summary:
+- Strengths: ...
+- Issues: ...
+- Recommendations: ...
+```
+
+---
+
+**Input Example:**
+“[Paste the text to analyze here.]”
+
+---
+
+```
+
 #### Improve Flow and Connectedness
 
 Prompt: Add transition words (from SuperHuman newsletter sent 10/30/2025 https://www.superhuman.ai/p/big-tech-kicks-off-earnings-season?utm_source=superhuman&utm_medium=newsletter&utm_campaign=big-tech-kicks-off-earnings-season&_bhlid=dd54f82af461cf7f1022066425b76d36e23ceb98)
