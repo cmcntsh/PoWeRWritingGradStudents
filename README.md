@@ -351,7 +351,6 @@ For each **paragraph**, do the following:
 
 **Output Format Example:**
 
-```
 Paragraph 1 Overview:
 (Main point, flow, clarity comments)
 
@@ -369,7 +368,6 @@ Paragraph Summary:
 - Strengths: ...
 - Issues: ...
 - Recommendations: ...
-```
 
 ---
 
