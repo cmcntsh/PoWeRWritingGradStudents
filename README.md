@@ -285,7 +285,6 @@ Since this is academic writing, which sentences have assertions that should be s
 Prompt: Paragraph and Sentence-Level Reader Interpretation Analysis (Crafted with help of ChatGPT 11/2/2205)
 
 ```
-Excellent — here’s a **ready-to-use, comprehensive prompt** that will guide a large language model to analyze a piece of writing paragraph-by-paragraph and sentence-by-sentence, using the reader-centered clarity and interpretation principles we discussed.
 
 ---
 
