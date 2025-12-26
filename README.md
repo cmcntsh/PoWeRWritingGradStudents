@@ -28,6 +28,8 @@ Prewriting is the stage where you collect and organize information (Sainani, n.d
 
 * Academic writing is structured, evidenced, critical, balanced, precise, objective, and formal. (https://www.eapfoundation.com/writing/what/)
   * Note that the video on the site linked above gives advice about how to write objectively, which is considered outdated. First, the speaker advises writers to use passive construction. Current practice is to use active construction as much as possible. (I like advice from George Gopen regarding when to use passive construction. https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_10_why_the_passive_should_be_used.pdf) Second, the speaker advises writers not to use first-person pronouns. Current APA recommendations are to use first-person pronouns when describing actions you personally took. (https://apastyle.apa.org/style-grammar-guidelines/grammar/first-person-pronouns)
+* Academic writing: A practical guide https://subjectguides.york.ac.uk/academic-writing
+  * This site provides a good overview and links to some useful tutorials and videos.
 
 ### Writing in a Genre
 
