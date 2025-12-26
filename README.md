@@ -47,6 +47,7 @@ Prewriting is the stage where you collect and organize information (Sainani, n.d
 
 * If you need to evaluate the strength of evidence, use a recognized framework.
 * The Johns Hopkins model is suitable for evaluating a wide range of evidence (Dang et al., 2021).
+* Quoting, paraphrasing, and Synthesizing https://www.youtube.com/watch?v=mhtxm5CSwUs
 
 ## Prewriting Tools
 
