@@ -39,6 +39,10 @@ Prewriting is the stage where you collect and organize information (Sainani, n.d
 * If it has not been done already, you may find it beneficial to divide your paper into specific sections and understand the content that should be included in each section.
 * Create an outline based on the required sections.
 
+### Organize Your Thoughts
+
+* Plannin General Structure https://www.youtube.com/watch?v=JhuOJ5Rhy18
+
 ### Evaluating Evidence
 
 * If you need to evaluate the strength of evidence, use a recognized framework.
